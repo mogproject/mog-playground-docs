@@ -36,13 +36,13 @@ You can choose one of the board layouts as you prefer.
 
 .. figure:: _static/images/customization/base_main.jpg
    :align: center
-   :scale: 69%
+   :scale: 70%
 
    Standard
 
 .. figure:: _static/images/customization/compact_main.jpg
    :align: center
-   :scale: 105%
+   :scale: 106%
 
    Compact
 
@@ -192,13 +192,13 @@ Configuration by query parameters
 
 *For advanced users*
 
-You may apply customization via URL query parameters. A query parameter is a key-value pair following the base URL.
+You may apply customization via URL query parameters.
 
-If you specify two query parameters, the whole URL will be like this:
+.. note:: A query parameter is a key-value pair following the base URL. If you specify two query parameters, the whole URL will be like this:
 
-``https://play.mogproject.com/?<key1>=<value1>&<key2>=<value2>``
+   ``https://play.mogproject.com/?<key1>=<value1>&<key2>=<value2>``
 
-Please consult to `the developer document <https://github.com/mogproject/mog-playground/wiki/Query-Parameters>`_ for the complete list of the supported query parameters.
+   Please consult to `the developer document <https://github.com/mogproject/mog-playground/wiki/Query-Parameters>`_ for the complete list of the supported query parameters.
 
 Other color sets
 ----------------

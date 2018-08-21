@@ -52,9 +52,12 @@ crop_and_scale() {
 #scale double 300
 #scale double_mobile 300
 #scale annotated 600
-crop_and_scale rgb 200 s
+#crop_and_scale rgb 200 s
 #crop_and_scale compact 200 c
 #crop_and_scale wide 200 w
 
+#crop_and_scale base 200 s
 
+crop_and_scale coord_jp 200 s
+crop_and_scale coord_num 200 s
 
