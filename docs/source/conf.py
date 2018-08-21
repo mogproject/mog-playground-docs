@@ -161,4 +161,5 @@ texinfo_documents = [
 
 # -- Additional Settings --
 html_show_sourcelink = False
+html_scaled_image_link = False
 

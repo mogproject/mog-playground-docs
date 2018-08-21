@@ -49,6 +49,8 @@ As of August 2018, Shogi Playground has been accessed from 90 different countrie
 .. figure:: _static/images/index/shogi_harbour.jpg
    :align: left
 
+   This website uses the embedded version of Shogi Playground.
+
 
 Features
 ========

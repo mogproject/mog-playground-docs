@@ -2,4 +2,5 @@ div.body h1 { font-size: 200%; }
 div.body h2 { font-size: 160%; }
 div.body h3 { font-size: 130%; }
 
-.figure.align-center { display: inline-block; }
+.figure.align-center { display: inline-block; padding-right: 0.3em; }
+.figure img { border: 1px solid #3e4349; }
