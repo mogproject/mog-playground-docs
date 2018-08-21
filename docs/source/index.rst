@@ -16,7 +16,7 @@ Shogi, also known as Japanese chess, is a two-player strategy board game native 
    [1]_
 
 
-Shogi has been the most popular board game in Japan for centuries (in fact, much more popular than Western chess), and professionals are greatly respected by all Japanese population. Recently, the first non-Japanese shogi professional `Karolina Styczyńska <https://www.shogi.or.jp/player/lady/59.html>`_ and the progeny `Sota Fujii <https://www.shogi.or.jp/player/pro/307.html>`_ have made headlines many times, acquiring new shogi fans all over the world.
+Shogi has been the most popular board game in Japan for centuries (in fact, much more popular than Western chess), and professionals have been greatly respected by all Japanese population. Recently, the first non-Japanese shogi professional `Karolina Styczyńska <https://www.shogi.or.jp/player/lady/59.html>`_ and the progeny `Sota Fujii <https://www.shogi.or.jp/player/pro/307.html>`_ have made headlines many times, acquiring new shogi fans all over the world.
 
 Please refer to `Wikipedia <https://en.wikipedia.org/wiki/Shogi>`_ for further information.
 
@@ -24,7 +24,7 @@ Please refer to `Wikipedia <https://en.wikipedia.org/wiki/Shogi>`_ for further i
 What is Shogi Playground?
 =========================
 
-Shogi Playground is a light-weight, mobile-friendly website where anyone can manage, analyze, and share shogi games as well as mate problems. Without any installation --other than an HTML5-compatible web browser, Shogi Playground provides an out-of-the-box online shogi board with which one can play around. The look and feel will be optimized for your screen. For example, more panels will be shown on a PC, and you can just flick your finger to move a piece on a mobile screen.
+Shogi Playground is a lightweight, mobile-friendly website where anyone can manage, analyze, and share shogi games as well as mate problems. Without any installation --other than an HTML5-compatible web browser, Shogi Playground provides an out-of-the-box online shogi board with which one can play around. The look and feel will be optimized for your screen. For example, more panels will be shown on a PC, and you can just flick your finger to move a piece on a mobile screen.
 
 .. figure:: _static/images/index/init_pc.jpg
    :align: center
@@ -68,7 +68,7 @@ and more!
 Development principles
 ======================
 
-I, the developer of Shogi Playground, promise the followings.
+I, the developer of Shogi Playground, hereby promise the followings.
 
 - Tool for everyone, regardless of language and location
 - Lightweight, mobile-friendly interface
@@ -87,5 +87,5 @@ Documentation
 
    *
 
-.. [1] Picture from https://free-materials.com/
+.. [1] Picture taken from https://free-materials.com/
 
